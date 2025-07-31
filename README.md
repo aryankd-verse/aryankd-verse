@@ -10,9 +10,9 @@ I love building smart solutions that make data meaningful.
 - Git • Jupyter • Model Deployment
 
 *Highlighted Projects*
-- 🔍 PDF Search & Summary Tool
-- 🧠 Parkinson’s Disease Detection
-- 🚗 Car Price Prediction System
+- 🔍 PDF Search & Summary Tool(NLP)
+- 🧠 Parkinson’s Disease Detection(Regression Model)
+- 🚗 Car Price Prediction System(Machine Learning)
 
 
 📈 *Current Focus*
