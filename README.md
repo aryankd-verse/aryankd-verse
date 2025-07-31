@@ -22,3 +22,4 @@ I love building smart solutions that make data meaningful.
 
 📫 *Contact*
 - 📧 aryankd008@gmail.com
+-🔗 [LinkedIn](https://www.linkedin.com/in/aryan-kumar-dubey-b392b5372/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BfO9VlweUTfuJ4O9ThDIdyg%3D%3D)
