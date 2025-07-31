@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi there 👋 I'm Aryan!
 
-<!--
-**aryankd-verse/aryankd-verse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Data Scientist** exploring the verse of AI, ML, and Deep Learning.  
+I love building smart solutions that make data meaningful.
 
-Here are some ideas to get you started:
+🧠 *Skills*
+- Python • Pandas • NumPy • Scikit-learn • Matplotlib
+- Deep Learning: TensorFlow, Keras, PyTorch
+- NLP & Computer Vision
+- Git • Jupyter • Model Deployment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Highlighted Projects*
+- 🔍 PDF Search & Summary Tool
+- 🧠 Parkinson’s Disease Detection
+- 🚗 Car Price Prediction System
+
+
+📈 *Current Focus*
+- Advancing my ML/AI project portfolio
+- Studying cutting-edge AI research
+
+
+📫 *Contact*
+- 📧 aryankd008@gmail.com
